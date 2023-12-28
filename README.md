@@ -1,5 +1,9 @@
 to run the website locally:
-``` npm start  ```
+```
+npm start
+```
 
 to deploy the website:
-``` npm run deploy ```
+```
+npm run deploy
+```
