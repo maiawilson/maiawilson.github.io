@@ -1,8 +1,5 @@
 import React, { useState } from "react";
 import {
-  ImageList,
-  ImageListItem,
-  ImageListItemBar,
   Modal,
   Fade,
   Box,
