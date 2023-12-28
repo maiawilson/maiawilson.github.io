@@ -3,7 +3,7 @@ name: Website Deployment
 on:
   push:
     branches:
-      - main # branch name
+      - [ main ]
 
 jobs:
   build:
