@@ -51,7 +51,7 @@ export default function AboutPage() {
                 src={"images/BETTERPFP.png"}
                 alt=""
                 className="img"
-                style={{ width: "100%", height: "90%" }}
+                style={{ width: "70%", height: "auto" }}
               />
             </Box>
           </Grid>
