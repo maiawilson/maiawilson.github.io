@@ -85,12 +85,12 @@ export default function RecentsPage() {
               display="flex"
               flexDirection={"column"}
               alignItems={"center"}
-              sx={{ height: "70%", maxWidth: "70%", outline: "none" }}
+              sx={{ height: "80%", maxWidth: "80%", outline: "none" }}
             >
               <img
                 src={image}
                 alt=""
-                style={{ outline: "none", maxHeight: "90%", maxWidth: "90%" }}
+                style={{ outline: "none", maxHeight: "100%", maxWidth: "100%" }}
               />
               <Typography variant='h5' align="right" color="white">
                 {caption}
