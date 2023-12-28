@@ -24,7 +24,7 @@ export default function NavBar({ darkText }) {
               to="/recents"
               className={`navlink ${darkText ? "darktext" : "lighttext"}`}
             >
-              Recents
+              RECENTS
             </NavLink>
           </Grid>
           <Grid item xs={2} md={1}>
@@ -40,7 +40,7 @@ export default function NavBar({ darkText }) {
               to="/about"
               className={`navlink ${darkText ? "darktext" : "lighttext"}`}
             >
-              About
+              ABOUT
             </NavLink>
           </Grid>
         </Grid>
