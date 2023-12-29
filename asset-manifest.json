@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.90a820bb.js",
+    "main.js": "/static/js/main.ff7de5ed.js",
     "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
     "static/media/Early_Morning_2023.jpg": "/static/media/Early_Morning_2023.4ee82ab958358b423f23.jpg",
     "static/media/Inflorescence_2023.jpg": "/static/media/Inflorescence_2023.dea9c5ac13d47540bd43.jpg",
@@ -9,7 +9,6 @@
     "static/media/The_Sun_2022.jpg": "/static/media/The_Sun_2022.31054ab5316e8dd0c89f.jpg",
     "static/media/Time_Machine_2022.jpg": "/static/media/Time_Machine_2022.647530471a7bc525ca96.jpg",
     "static/media/Caught_2022.jpg": "/static/media/Caught_2022.a78c77991fcd9be99a59.jpg",
-    "static/media/Neon_Fatigue_2022.heic": "/static/media/Neon_Fatigue_2022.96a73657be9d4871c4d3.heic",
     "static/media/All-American_2022.jpeg": "/static/media/All-American_2022.0674c3fafb79442c6402.jpeg",
     "static/media/IMG_3098.jpg": "/static/media/IMG_3098.e447397d1254058b8e07.jpg",
     "static/media/Inflorescence_2023.heic": "/static/media/Inflorescence_2023.714546ad4b5a6d61941d.heic",
@@ -34,10 +33,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.90a820bb.js.map": "/static/js/main.90a820bb.js.map"
+    "main.ff7de5ed.js.map": "/static/js/main.ff7de5ed.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.90a820bb.js"
+    "static/js/main.ff7de5ed.js"
   ]
 }
