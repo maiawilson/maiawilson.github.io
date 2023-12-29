@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.8d5becf7.js",
+    "main.js": "/static/js/main.0ce8d727.js",
     "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
     "static/media/Early_Morning_2023.jpg": "/static/media/Early_Morning_2023.4ee82ab958358b423f23.jpg",
     "static/media/Inflorescence_2023.jpg": "/static/media/Inflorescence_2023.dea9c5ac13d47540bd43.jpg",
@@ -19,7 +19,6 @@
     "static/media/Frankenstein_2023.jpg": "/static/media/Frankenstein_2023.b5e2a874b91547451c7c.jpg",
     "static/media/unstable_portrait_2021.jpg": "/static/media/unstable_portrait_2021.d3f5a88df3205c15b917.jpg",
     "static/media/Young_Woman_Seated_on_a_Staircase_2022.jpg": "/static/media/Young_Woman_Seated_on_a_Staircase_2022.6207af71cbcf79d4f3e1.jpg",
-    "static/media/IMG_3110.jpg": "/static/media/IMG_3110.1ce8896d20a05fc41d19.jpg",
     "static/media/IMG_3113.jpg": "/static/media/IMG_3113.62845954b13df0efed22.jpg",
     "static/media/IMG_3112.jpg": "/static/media/IMG_3112.24db90269990532226c2.jpg",
     "static/media/IMG_3111.jpg": "/static/media/IMG_3111.6d0645307a88ff7b04fb.jpg",
@@ -27,10 +26,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.8d5becf7.js.map": "/static/js/main.8d5becf7.js.map"
+    "main.0ce8d727.js.map": "/static/js/main.0ce8d727.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.8d5becf7.js"
+    "static/js/main.0ce8d727.js"
   ]
 }
