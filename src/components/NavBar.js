@@ -18,7 +18,7 @@ export default function NavBar({ darkText }) {
               </NavLink>
             </Box>
           </Grid>
-          <Grid item xs={3} md={5.5} />
+          <Grid item xs={2} md={5.5} />
           <Grid item xs={2} md={1.5} align='center'>
             <NavLink
               to="/recents"
