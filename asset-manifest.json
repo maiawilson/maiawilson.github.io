@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.337bdd26.js",
+    "main.js": "/static/js/main.92ad3181.js",
     "static/media/Process_2023.jpg": "/static/media/Process_2023.f91b48bef728219cfff7.jpg",
     "static/media/The_Process_of_Peeling_2023.jpeg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpeg",
     "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
@@ -18,7 +18,6 @@
     "static/media/The_Sun_2022.heic": "/static/media/The_Sun_2022.0d56b7719fd19c952f3f.heic",
     "static/media/mustached_man_on_the_beach_2022.jpg": "/static/media/mustached_man_on_the_beach_2022.ecd05d8d83c9396b4749.jpg",
     "static/media/IMG_3101.jpg": "/static/media/IMG_3101.6f4c77fb4df519f6b71a.jpg",
-    "static/media/IMG_3097.jpg": "/static/media/IMG_3097.6f354555f1abd667c625.jpg",
     "static/media/IMG_3104.jpg": "/static/media/IMG_3104.6455e35aaa30b78e5aff.jpg",
     "static/media/Time_Machine_2022.heic": "/static/media/Time_Machine_2022.0ec6ad5f3a5c253fd6df.heic",
     "static/media/IMG_3106.jpg": "/static/media/IMG_3106.b0b5afdeea8a8d6f9b04.jpg",
@@ -43,10 +42,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.337bdd26.js.map": "/static/js/main.337bdd26.js.map"
+    "main.92ad3181.js.map": "/static/js/main.92ad3181.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.337bdd26.js"
+    "static/js/main.92ad3181.js"
   ]
 }
