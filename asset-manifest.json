@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.8b2cae93.js",
+    "main.js": "/static/js/main.6b82ede9.js",
     "static/media/Process_2023.jpg": "/static/media/Process_2023.f91b48bef728219cfff7.jpg",
     "static/media/The_Process_of_Peeling_2023.jpeg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpeg",
     "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
@@ -23,7 +23,6 @@
     "static/media/IMG_3106.jpg": "/static/media/IMG_3106.b0b5afdeea8a8d6f9b04.jpg",
     "static/media/IMG_3105 (1).jpg": "/static/media/IMG_3105 (1).cc5b51dc2bc6d145eb81.jpg",
     "static/media/Docs_2023.jpg": "/static/media/Docs_2023.861189408dd35fc325bc.jpg",
-    "static/media/mustached_man_on_the_beach_2022.heic": "/static/media/mustached_man_on_the_beach_2022.78c10b7109d4154cd50f.heic",
     "static/media/IMG_3103.jpg": "/static/media/IMG_3103.14988c58cd63aeececde.jpg",
     "static/media/demolition:revolution_2023.jpg": "/static/media/demolition:revolution_2023.ebc9d44ed42662a42f80.jpg",
     "static/media/Frankenstein_2023.jpg": "/static/media/Frankenstein_2023.b5e2a874b91547451c7c.jpg",
@@ -41,10 +40,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.8b2cae93.js.map": "/static/js/main.8b2cae93.js.map"
+    "main.6b82ede9.js.map": "/static/js/main.6b82ede9.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.8b2cae93.js"
+    "static/js/main.6b82ede9.js"
   ]
 }
