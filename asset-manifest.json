@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.3b4dcdd1.js",
+    "main.js": "/static/js/main.40e9df15.js",
     "static/media/Process_2023.jpg": "/static/media/Process_2023.f91b48bef728219cfff7.jpg",
     "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
     "static/media/Early_Morning_2023.heic": "/static/media/Early_Morning_2023.eb77eda333cd57977c4a.heic",
@@ -31,13 +31,12 @@
     "static/media/Frankenstein_2023.heic": "/static/media/Frankenstein_2023.f021136fa24ce142d6f1.heic",
     "static/media/IMG_3109.jpg": "/static/media/IMG_3109.1178759fc5526299df79.jpg",
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
-    "static/media/Bursting_Through_2023.heic": "/static/media/Bursting_Through_2023.65f59593e7909dd18b51.heic",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.3b4dcdd1.js.map": "/static/js/main.3b4dcdd1.js.map"
+    "main.40e9df15.js.map": "/static/js/main.40e9df15.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.3b4dcdd1.js"
+    "static/js/main.40e9df15.js"
   ]
 }
