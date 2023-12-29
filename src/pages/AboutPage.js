@@ -30,7 +30,7 @@ export default function AboutPage() {
                 <br />
                 <br />
                 I won a Scholastic Art and Writers Awards gold key for my
-                Exhibition Piece “Intimate” (insert link to homepage).
+                Exhibition Piece <a href='/'>“Intimate”</a>.
                 <br />
                 <br />
                 This year I’m taking Advanced Placement (AP) Drawing and
