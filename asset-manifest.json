@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.bfc0985a.js",
+    "main.js": "/static/js/main.727f903b.js",
     "static/media/Process_2023.jpg": "/static/media/Process_2023.f91b48bef728219cfff7.jpg",
     "static/media/The_Process_of_Peeling_2023.jpeg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpeg",
     "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
@@ -34,15 +34,14 @@
     "static/media/IMG_3111.jpg": "/static/media/IMG_3111.6d0645307a88ff7b04fb.jpg",
     "static/media/IMG_3116.jpg": "/static/media/IMG_3116.2f22b31a65ebedfb2492.jpg",
     "static/media/IMG_3108.jpg": "/static/media/IMG_3108.d4e5bcdf6abbe3f47347.jpg",
-    "static/media/Young_Woman_Seated_on_a_Staircase_2022.heic": "/static/media/Young_Woman_Seated_on_a_Staircase_2022.e766de16261a25dd0356.heic",
     "static/media/IMG_3109.jpg": "/static/media/IMG_3109.1178759fc5526299df79.jpg",
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.bfc0985a.js.map": "/static/js/main.bfc0985a.js.map"
+    "main.727f903b.js.map": "/static/js/main.727f903b.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.bfc0985a.js"
+    "static/js/main.727f903b.js"
   ]
 }
