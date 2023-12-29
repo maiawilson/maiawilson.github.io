@@ -24,7 +24,7 @@ export default function NavBar({ darkText }) {
               to="/recents"
               className={`navlink ${darkText ? "darktext" : "lighttext"}`}
             >
-              RECENTS
+              ART
             </NavLink>
           </Grid>
           <Grid item xs={2} md={1.5} align='center'>
