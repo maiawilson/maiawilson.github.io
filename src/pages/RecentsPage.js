@@ -13,6 +13,7 @@ const images = require.context("../art", true);
 const imageList = images.keys().map((image) => images(image));
 const imageNames = imageList.map((name) => {
   const nameParts = name.split(".")[0].split("/").pop().split("_");
+  nameParts.shift() // get rid of first, numbering element
   const year = nameParts.pop();
   return nameParts.join(" ") + ", " + year;
 });

@@ -48,7 +48,7 @@ export default function AboutPage() {
           <Grid item xs={12} md={6}>
             <Box px={6} py={4}>
               <img
-                src={"images/BETTERPFP.png"}
+                src={"images/about_pfp.png"}
                 alt=""
                 className="img"
                 style={{ width: "70%", height: "auto" }}
