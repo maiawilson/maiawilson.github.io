@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.f1246604.js",
-    "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
-    "static/media/Early_Morning_2023.jpg": "/static/media/Early_Morning_2023.4ee82ab958358b423f23.jpg",
-    "static/media/Inflorescence_2023.jpg": "/static/media/Inflorescence_2023.dea9c5ac13d47540bd43.jpg",
-    "static/media/Neon_Fatigue_2022.jpg": "/static/media/Neon_Fatigue_2022.57c41da994e4765f4edd.jpg",
-    "static/media/The_Sun_2022.jpg": "/static/media/The_Sun_2022.31054ab5316e8dd0c89f.jpg",
-    "static/media/Time_Machine_2022.jpg": "/static/media/Time_Machine_2022.647530471a7bc525ca96.jpg",
-    "static/media/Caught_2022.jpg": "/static/media/Caught_2022.a78c77991fcd9be99a59.jpg",
-    "static/media/All-American_2022.jpeg": "/static/media/All-American_2022.0674c3fafb79442c6402.jpeg",
-    "static/media/mustached_man_on_the_beach_2022.jpg": "/static/media/mustached_man_on_the_beach_2022.ecd05d8d83c9396b4749.jpg",
-    "static/media/Adore_2023.jpg": "/static/media/Adore_2023.d686196f0a20d6abf0f8.jpg",
-    "static/media/Docs_2023.jpg": "/static/media/Docs_2023.861189408dd35fc325bc.jpg",
-    "static/media/demolition:revolution_2023.jpg": "/static/media/demolition:revolution_2023.ebc9d44ed42662a42f80.jpg",
-    "static/media/Frankenstein_2023.jpg": "/static/media/Frankenstein_2023.b5e2a874b91547451c7c.jpg",
-    "static/media/unstable_portrait_2021.jpg": "/static/media/unstable_portrait_2021.d3f5a88df3205c15b917.jpg",
-    "static/media/Young_Woman_Seated_on_a_Staircase_2022.jpg": "/static/media/Young_Woman_Seated_on_a_Staircase_2022.6207af71cbcf79d4f3e1.jpg",
-    "static/media/Bursting_Through_2023.jpg": "/static/media/Bursting_Through_2023.60cd353d54af52432253.jpg",
+    "main.js": "/static/js/main.9ed81889.js",
+    "static/media/001_The_Process_of_Peeling_2023.jpg": "/static/media/001_The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
+    "static/media/011_Early_Morning_2023.jpg": "/static/media/011_Early_Morning_2023.4ee82ab958358b423f23.jpg",
+    "static/media/007_Inflorescence_2023.jpg": "/static/media/007_Inflorescence_2023.dea9c5ac13d47540bd43.jpg",
+    "static/media/013_Neon_Fatigue_2022.jpg": "/static/media/013_Neon_Fatigue_2022.57c41da994e4765f4edd.jpg",
+    "static/media/005_The_Sun_2022.jpg": "/static/media/005_The_Sun_2022.31054ab5316e8dd0c89f.jpg",
+    "static/media/010_Time_Machine_2022.jpg": "/static/media/010_Time_Machine_2022.647530471a7bc525ca96.jpg",
+    "static/media/012_Caught_2022.jpg": "/static/media/012_Caught_2022.a78c77991fcd9be99a59.jpg",
+    "static/media/002_All-American_2022.jpeg": "/static/media/002_All-American_2022.0674c3fafb79442c6402.jpeg",
+    "static/media/014_mustached_man_on_the_beach_2022.jpg": "/static/media/014_mustached_man_on_the_beach_2022.ecd05d8d83c9396b4749.jpg",
+    "static/media/000_Adore_2023.jpg": "/static/media/000_Adore_2023.d686196f0a20d6abf0f8.jpg",
+    "static/media/009_Docs_2023.jpg": "/static/media/009_Docs_2023.861189408dd35fc325bc.jpg",
+    "static/media/015_demolition:revolution_2023.jpg": "/static/media/015_demolition:revolution_2023.ebc9d44ed42662a42f80.jpg",
+    "static/media/008_Frankenstein_2023.jpg": "/static/media/008_Frankenstein_2023.b5e2a874b91547451c7c.jpg",
+    "static/media/006_unstable_portrait_2021.jpg": "/static/media/006_unstable_portrait_2021.d3f5a88df3205c15b917.jpg",
+    "static/media/004_Young_Woman_Seated_on_a_Staircase_2022.jpg": "/static/media/004_Young_Woman_Seated_on_a_Staircase_2022.6207af71cbcf79d4f3e1.jpg",
+    "static/media/003_Bursting_Through_2023.jpg": "/static/media/003_Bursting_Through_2023.60cd353d54af52432253.jpg",
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.f1246604.js.map": "/static/js/main.f1246604.js.map"
+    "main.9ed81889.js.map": "/static/js/main.9ed81889.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.f1246604.js"
+    "static/js/main.9ed81889.js"
   ]
 }
