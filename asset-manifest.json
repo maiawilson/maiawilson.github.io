@@ -1,14 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.40e9df15.js",
+    "main.js": "/static/js/main.907b1d63.js",
     "static/media/Process_2023.jpg": "/static/media/Process_2023.f91b48bef728219cfff7.jpg",
+    "static/media/The_Process_of_Peeling_2023.jpeg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpeg",
     "static/media/The_Process_of_Peeling_2023.jpg": "/static/media/The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
+    "static/media/Early_Morning_2023.jpg": "/static/media/Early_Morning_2023.4ee82ab958358b423f23.jpg",
+    "static/media/Inflorescence_2023.jpg": "/static/media/Inflorescence_2023.dea9c5ac13d47540bd43.jpg",
+    "static/media/Neon_Fatigue_2022.jpg": "/static/media/Neon_Fatigue_2022.57c41da994e4765f4edd.jpg",
+    "static/media/The_Sun_2022.jpg": "/static/media/The_Sun_2022.31054ab5316e8dd0c89f.jpg",
+    "static/media/Time_Machine_2022.jpg": "/static/media/Time_Machine_2022.647530471a7bc525ca96.jpg",
+    "static/media/Caught_2022.jpg": "/static/media/Caught_2022.a78c77991fcd9be99a59.jpg",
     "static/media/Early_Morning_2023.heic": "/static/media/Early_Morning_2023.eb77eda333cd57977c4a.heic",
     "static/media/Neon_Fatigue_2022.heic": "/static/media/Neon_Fatigue_2022.96a73657be9d4871c4d3.heic",
+    "static/media/All-American_2022.jpeg": "/static/media/All-American_2022.0674c3fafb79442c6402.jpeg",
     "static/media/IMG_3098.jpg": "/static/media/IMG_3098.e447397d1254058b8e07.jpg",
     "static/media/Inflorescence_2023.heic": "/static/media/Inflorescence_2023.714546ad4b5a6d61941d.heic",
     "static/media/The_Sun_2022.heic": "/static/media/The_Sun_2022.0d56b7719fd19c952f3f.heic",
+    "static/media/mustached_man_on_the_beach_2022.jpg": "/static/media/mustached_man_on_the_beach_2022.ecd05d8d83c9396b4749.jpg",
     "static/media/IMG_3096.jpg": "/static/media/IMG_3096.9945a3399d417ff2085c.jpg",
     "static/media/IMG_3101.jpg": "/static/media/IMG_3101.6f4c77fb4df519f6b71a.jpg",
     "static/media/IMG_3097.jpg": "/static/media/IMG_3097.6f354555f1abd667c625.jpg",
@@ -19,6 +28,10 @@
     "static/media/Docs_2023.jpg": "/static/media/Docs_2023.861189408dd35fc325bc.jpg",
     "static/media/mustached_man_on_the_beach_2022.heic": "/static/media/mustached_man_on_the_beach_2022.78c10b7109d4154cd50f.heic",
     "static/media/IMG_3103.jpg": "/static/media/IMG_3103.14988c58cd63aeececde.jpg",
+    "static/media/demolition:revolution_2023.jpg": "/static/media/demolition:revolution_2023.ebc9d44ed42662a42f80.jpg",
+    "static/media/Frankenstein_2023.jpg": "/static/media/Frankenstein_2023.b5e2a874b91547451c7c.jpg",
+    "static/media/unstable_portrait_2021.jpg": "/static/media/unstable_portrait_2021.d3f5a88df3205c15b917.jpg",
+    "static/media/Young_Woman_Seated_on_a_Staircase_2022.jpg": "/static/media/Young_Woman_Seated_on_a_Staircase_2022.6207af71cbcf79d4f3e1.jpg",
     "static/media/IMG_3110.jpg": "/static/media/IMG_3110.1ce8896d20a05fc41d19.jpg",
     "static/media/IMG_3113.jpg": "/static/media/IMG_3113.62845954b13df0efed22.jpg",
     "static/media/IMG_3112.jpg": "/static/media/IMG_3112.24db90269990532226c2.jpg",
@@ -33,10 +46,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.40e9df15.js.map": "/static/js/main.40e9df15.js.map"
+    "main.907b1d63.js.map": "/static/js/main.907b1d63.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.40e9df15.js"
+    "static/js/main.907b1d63.js"
   ]
 }
