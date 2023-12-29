@@ -18,8 +18,8 @@ export default function NavBar({ darkText }) {
               </NavLink>
             </Box>
           </Grid>
-          <Grid item xs={3} md={7} />
-          <Grid item xs={2} md={1}>
+          <Grid item xs={3} md={5.5} />
+          <Grid item xs={2} md={1.5} align='center'>
             <NavLink
               to="/recents"
               className={`navlink ${darkText ? "darktext" : "lighttext"}`}
@@ -27,7 +27,7 @@ export default function NavBar({ darkText }) {
               RECENTS
             </NavLink>
           </Grid>
-          <Grid item xs={2} md={1}>
+          <Grid item xs={2} md={1.5} align='center'>
             <NavLink
               to="/cv"
               className={`navlink ${darkText ? "darktext" : "lighttext"}`}
@@ -35,7 +35,7 @@ export default function NavBar({ darkText }) {
               CV
             </NavLink>
           </Grid>
-          <Grid item xs={2} md={1}>
+          <Grid item xs={2} md={1.5} align='center'>
             <NavLink
               to="/about"
               className={`navlink ${darkText ? "darktext" : "lighttext"}`}

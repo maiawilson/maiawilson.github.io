@@ -9,11 +9,19 @@ export default function Footer() {
       <Grid container spacing={1}>
         <Grid item xs={4} sm={5}></Grid>
         <Grid item xs={4} sm={2}>
-          <a href="/">
-            <InstagramIcon fontSize='large' sx={{color: 'black'}} />
+          <a
+            href="https://www.instagram.com/whateversonjupiter"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <InstagramIcon fontSize="large" sx={{ color: "black" }} />
           </a>
-          <a href="/">
-            <LinkedInIcon fontSize='large' sx={{color: 'black'}} />
+          <a
+            href="https://www.linkedin.com/in/maia-wilson-317161285/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <LinkedInIcon fontSize="large" sx={{ color: "black" }} />
           </a>
         </Grid>
         <Grid item xs={4} sm={5}></Grid>
