@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.74e1700f.js",
-    "static/media/001_The_Process_of_Peeling_2023.jpg": "/static/media/001_The_Process_of_Peeling_2023.f91b48bef728219cfff7.jpg",
+    "main.js": "/static/js/main.6047803b.js",
     "static/media/011_Early_Morning_2023.jpg": "/static/media/011_Early_Morning_2023.4ee82ab958358b423f23.jpg",
     "static/media/007_Inflorescence_2023.jpg": "/static/media/007_Inflorescence_2023.dea9c5ac13d47540bd43.jpg",
     "static/media/013_Neon_Fatigue_2022.jpg": "/static/media/013_Neon_Fatigue_2022.57c41da994e4765f4edd.jpg",
@@ -21,10 +20,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.74e1700f.js.map": "/static/js/main.74e1700f.js.map"
+    "main.6047803b.js.map": "/static/js/main.6047803b.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.74e1700f.js"
+    "static/js/main.6047803b.js"
   ]
 }
