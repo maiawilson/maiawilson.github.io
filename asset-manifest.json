@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.d3a6c2c5.js",
+    "main.js": "/static/js/main.26269bea.js",
     "static/media/010_Time_Machine_2022.jpg": "/static/media/010_Time_Machine_2022.647530471a7bc525ca96.jpg",
     "static/media/012_Caught_2022.jpg": "/static/media/012_Caught_2022.a78c77991fcd9be99a59.jpg",
     "static/media/0035_Intimate_2022.jpg": "/static/media/0035_Intimate_2022.fedce73321673e777365.jpg",
     "static/media/002_All-American_2022.jpeg": "/static/media/002_All-American_2022.0674c3fafb79442c6402.jpeg",
+    "static/media/0115_Angel_2023.jpg": "/static/media/0115_Angel_2023.b8016b38195e9661683a.jpg",
     "static/media/000_Adore_2023.jpg": "/static/media/000_Adore_2023.d686196f0a20d6abf0f8.jpg",
     "static/media/009_Docs_2023.jpg": "/static/media/009_Docs_2023.861189408dd35fc325bc.jpg",
     "static/media/011_Early_Morning_2023.jpg": "/static/media/011_Early_Morning_2023.0fc39372ab3a16109733.jpg",
+    "static/media/0055_Tangerine_Dream_2023.jpg": "/static/media/0055_Tangerine_Dream_2023.a7621fea3d3073c9119b.jpg",
     "static/media/008_Frankenstein_2023.jpg": "/static/media/008_Frankenstein_2023.b5e2a874b91547451c7c.jpg",
     "static/media/005_The_Sun_2022.jpg": "/static/media/005_The_Sun_2022.d5b66490d0cc97d7225b.jpg",
     "static/media/001_The_Process_of_Peeling_2023.jpg": "/static/media/001_The_Process_of_Peeling_2023.8854f8a60529b0c1d47f.jpg",
@@ -17,15 +19,16 @@
     "static/media/014_Mustached_Man_on_the_Beach_2022.jpg": "/static/media/014_Mustached_Man_on_the_Beach_2022.b22ce70c6bde851f61de.jpg",
     "static/media/013_Neon_Fatigue_2022.jpg": "/static/media/013_Neon_Fatigue_2022.8affb917e0a2a835bc1c.jpg",
     "static/media/007_Inflorescence_2023.jpg": "/static/media/007_Inflorescence_2023.42c8dc9141ac82025f10.jpg",
+    "static/media/0125_Snow_Day_2023.jpg": "/static/media/0125_Snow_Day_2023.c4215e2cea557ee1098e.jpg",
     "static/media/015_Demolition:Revolution_2023.jpg": "/static/media/015_Demolition:Revolution_2023.1704107f63373db01123.jpg",
     "static/media/003_Bursting_Through_2023.jpg": "/static/media/003_Bursting_Through_2023.60cd353d54af52432253.jpg",
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.d3a6c2c5.js.map": "/static/js/main.d3a6c2c5.js.map"
+    "main.26269bea.js.map": "/static/js/main.26269bea.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.d3a6c2c5.js"
+    "static/js/main.26269bea.js"
   ]
 }
