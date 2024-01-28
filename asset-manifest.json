@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.ace91609.js",
+    "main.js": "/static/js/main.0cf8114c.js",
     "static/media/010_Time_Machine_2022.jpg": "/static/media/010_Time_Machine_2022.647530471a7bc525ca96.jpg",
     "static/media/012_Caught_2022.jpg": "/static/media/012_Caught_2022.a78c77991fcd9be99a59.jpg",
     "static/media/0035_Intimate_2022.jpg": "/static/media/0035_Intimate_2022.fedce73321673e777365.jpg",
@@ -16,7 +16,6 @@
     "static/media/001_The_Process_of_Peeling_2023.jpg": "/static/media/001_The_Process_of_Peeling_2023.8854f8a60529b0c1d47f.jpg",
     "static/media/006_Unstable_2021.jpg": "/static/media/006_Unstable_2021.d3f5a88df3205c15b917.jpg",
     "static/media/004_Young_Woman_on_a_Staircase_2022.jpg": "/static/media/004_Young_Woman_on_a_Staircase_2022.6207af71cbcf79d4f3e1.jpg",
-    "static/media/013_Neon_Fatigue_2022.jpg": "/static/media/013_Neon_Fatigue_2022.8affb917e0a2a835bc1c.jpg",
     "static/media/007_Inflorescence_2023.jpg": "/static/media/007_Inflorescence_2023.42c8dc9141ac82025f10.jpg",
     "static/media/0125_Snow_Day_2023.jpg": "/static/media/0125_Snow_Day_2023.c4215e2cea557ee1098e.jpg",
     "static/media/015_Demolition:Revolution_2023.jpg": "/static/media/015_Demolition:Revolution_2023.1704107f63373db01123.jpg",
@@ -24,10 +23,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.ace91609.js.map": "/static/js/main.ace91609.js.map"
+    "main.0cf8114c.js.map": "/static/js/main.0cf8114c.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.ace91609.js"
+    "static/js/main.0cf8114c.js"
   ]
 }
