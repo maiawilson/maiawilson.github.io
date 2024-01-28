@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.a56c7ba1.js",
+    "main.js": "/static/js/main.3290c6c1.js",
     "static/media/010_Time_Machine_2022.jpg": "/static/media/010_Time_Machine_2022.647530471a7bc525ca96.jpg",
     "static/media/012_Caught_2022.jpg": "/static/media/012_Caught_2022.a78c77991fcd9be99a59.jpg",
     "static/media/0035_Intimate_2022.jpg": "/static/media/0035_Intimate_2022.fedce73321673e777365.jpg",
     "static/media/002_All-American_2022.jpeg": "/static/media/002_All-American_2022.0674c3fafb79442c6402.jpeg",
     "static/media/0115_Angel_2023.jpg": "/static/media/0115_Angel_2023.b8016b38195e9661683a.jpg",
     "static/media/000_Adore_2023.jpg": "/static/media/000_Adore_2023.d686196f0a20d6abf0f8.jpg",
-    "static/media/011_Early_Morning_2023.jpg": "/static/media/011_Early_Morning_2023.0fc39372ab3a16109733.jpg",
     "static/media/0055_Tangerine_Dream_2023.jpg": "/static/media/0055_Tangerine_Dream_2023.a7621fea3d3073c9119b.jpg",
     "static/media/005_The_Sun_2022.jpg": "/static/media/005_The_Sun_2022.d5b66490d0cc97d7225b.jpg",
     "static/media/001_The_Process_of_Peeling_2023.jpg": "/static/media/001_The_Process_of_Peeling_2023.8854f8a60529b0c1d47f.jpg",
@@ -21,10 +20,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.a56c7ba1.js.map": "/static/js/main.a56c7ba1.js.map"
+    "main.3290c6c1.js.map": "/static/js/main.3290c6c1.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.a56c7ba1.js"
+    "static/js/main.3290c6c1.js"
   ]
 }
