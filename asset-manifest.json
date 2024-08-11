@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.a08d987e.js",
+    "main.js": "/static/js/main.fa1e26e7.js",
     "static/media/007_Soothe_2024.jpeg": "/static/media/007_Soothe_2024.d04433ed82104a0e079d.jpeg",
     "static/media/003_I_Wonder_2024.jpg": "/static/media/003_I_Wonder_2024.ece32db622ef48022a88.jpg",
     "static/media/000_Girl_On_Swing_2024.jpg": "/static/media/000_Girl_On_Swing_2024.4a4ab1fd26cb5254045f.jpg",
     "static/media/010_Time_Machine_2022.jpg": "/static/media/010_Time_Machine_2022.647530471a7bc525ca96.jpg",
-    "static/media/012_Caught_2022.jpg": "/static/media/012_Caught_2022.a78c77991fcd9be99a59.jpg",
     "static/media/004_Intimate_2022.jpg": "/static/media/004_Intimate_2022.fedce73321673e777365.jpg",
     "static/media/0055_Whirl_2024.jpg": "/static/media/0055_Whirl_2024.c1c1171be7da5156c984.jpg",
     "static/media/002_Where_the_Rock_Meets_the_Sea_in_Blue_2024.jpg": "/static/media/002_Where_the_Rock_Meets_the_Sea_in_Blue_2024.6bcf951369301e5a2c76.jpg",
@@ -24,10 +23,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.a08d987e.js.map": "/static/js/main.a08d987e.js.map"
+    "main.fa1e26e7.js.map": "/static/js/main.fa1e26e7.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.a08d987e.js"
+    "static/js/main.fa1e26e7.js"
   ]
 }
