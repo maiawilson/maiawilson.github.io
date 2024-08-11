@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.35f20b68.js",
+    "main.js": "/static/js/main.e89f2358.js",
     "static/media/005_Piercing_2024.jpg": "/static/media/005_Piercing_2024.b452372bdff538e63144.jpg",
     "static/media/014_Jess_and_her_Lilies_2024.jpg": "/static/media/014_Jess_and_her_Lilies_2024.88bafc85340a57442523.jpg",
     "static/media/009_The_Process_of_Peeling_2023.png": "/static/media/009_The_Process_of_Peeling_2023.068980dfec4e5328eebe.png",
@@ -28,10 +28,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.35f20b68.js.map": "/static/js/main.35f20b68.js.map"
+    "main.e89f2358.js.map": "/static/js/main.e89f2358.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.35f20b68.js"
+    "static/js/main.e89f2358.js"
   ]
 }
