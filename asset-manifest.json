@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.8beffa00.js",
+    "main.js": "/static/js/main.010417de.js",
     "static/media/008_Swing_2024.png": "/static/media/008_Swing_2024.981944d76073d45653d1.png",
     "static/media/007_Soothe_2024.jpeg": "/static/media/007_Soothe_2024.d04433ed82104a0e079d.jpeg",
     "static/media/003_I_Wonder_2024.jpg": "/static/media/003_I_Wonder_2024.ece32db622ef48022a88.jpg",
@@ -20,16 +20,16 @@
     "static/media/006_Unstable_2021.jpg": "/static/media/006_Unstable_2021.d3f5a88df3205c15b917.jpg",
     "static/media/010_Young_Woman_on_a_Staircase_2022.jpg": "/static/media/010_Young_Woman_on_a_Staircase_2022.6207af71cbcf79d4f3e1.jpg",
     "static/media/007_Inflorescence_2023.jpg": "/static/media/007_Inflorescence_2023.42c8dc9141ac82025f10.jpg",
-    "static/media/0125_Snow_Day_2023.jpg": "/static/media/0125_Snow_Day_2023.c4215e2cea557ee1098e.jpg",
+    "static/media/018_Snow_Day_2023.jpg": "/static/media/018_Snow_Day_2023.c4215e2cea557ee1098e.jpg",
     "static/media/015_Demolition:Revolution_2023.jpg": "/static/media/015_Demolition:Revolution_2023.1704107f63373db01123.jpg",
     "static/media/017_Bursting_Through_2023.jpg": "/static/media/017_Bursting_Through_2023.60cd353d54af52432253.jpg",
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.8beffa00.js.map": "/static/js/main.8beffa00.js.map"
+    "main.010417de.js.map": "/static/js/main.010417de.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.8beffa00.js"
+    "static/js/main.010417de.js"
   ]
 }
