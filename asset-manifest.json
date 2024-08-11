@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.e89f2358.js",
+    "main.js": "/static/js/main.b870899d.js",
     "static/media/005_Piercing_2024.jpg": "/static/media/005_Piercing_2024.b452372bdff538e63144.jpg",
     "static/media/014_Jess_and_her_Lilies_2024.jpg": "/static/media/014_Jess_and_her_Lilies_2024.88bafc85340a57442523.jpg",
     "static/media/009_The_Process_of_Peeling_2023.png": "/static/media/009_The_Process_of_Peeling_2023.068980dfec4e5328eebe.png",
+    "static/media/022_08_04_2008_2024.jpg": "/static/media/022_08_04_2008_2024.65711d1a3072e4e83294.jpg",
     "static/media/021_Little_Fox_2024.jpg": "/static/media/021_Little_Fox_2024.176d45d014d3bded0d6d.jpg",
     "static/media/008_Girl_and_Aphid_2024.jpg": "/static/media/008_Girl_and_Aphid_2024.df8bdf69f5dde5e72480.jpg",
     "static/media/006_Berlin_Summer_2024.jpg": "/static/media/006_Berlin_Summer_2024.db89fbc0961566b3df39.jpg",
@@ -28,10 +29,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.e89f2358.js.map": "/static/js/main.e89f2358.js.map"
+    "main.b870899d.js.map": "/static/js/main.b870899d.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.e89f2358.js"
+    "static/js/main.b870899d.js"
   ]
 }
