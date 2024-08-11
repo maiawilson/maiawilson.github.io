@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.d1dd4998.js",
+    "main.js": "/static/js/main.30bdcebb.js",
     "static/media/008_Swing_2024.png": "/static/media/008_Swing_2024.981944d76073d45653d1.png",
     "static/media/0035_Piercing_2024.jpg": "/static/media/0035_Piercing_2024.b452372bdff538e63144.jpg",
     "static/media/007_Soothe_2024.jpeg": "/static/media/007_Soothe_2024.d04433ed82104a0e079d.jpeg",
@@ -10,6 +10,7 @@
     "static/media/012_Caught_2022.jpg": "/static/media/012_Caught_2022.a78c77991fcd9be99a59.jpg",
     "static/media/0035_Intimate_2022.jpg": "/static/media/0035_Intimate_2022.fedce73321673e777365.jpg",
     "static/media/0055_Whirl_2024.jpg": "/static/media/0055_Whirl_2024.c1c1171be7da5156c984.jpg",
+    "static/media/001_Where_the_Rock_Meets_the_Sea_2024.jpg": "/static/media/001_Where_the_Rock_Meets_the_Sea_2024.55f232f651daccc8ecc6.jpg",
     "static/media/002_All-American_2022.jpeg": "/static/media/002_All-American_2022.0674c3fafb79442c6402.jpeg",
     "static/media/0045_Reconcilliation_2024.jpg": "/static/media/0045_Reconcilliation_2024.a0a33346ccbd6a279b2a.jpg",
     "static/media/0115_Angel_2023.jpg": "/static/media/0115_Angel_2023.b8016b38195e9661683a.jpg",
@@ -25,10 +26,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.d1dd4998.js.map": "/static/js/main.d1dd4998.js.map"
+    "main.30bdcebb.js.map": "/static/js/main.30bdcebb.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.d1dd4998.js"
+    "static/js/main.30bdcebb.js"
   ]
 }
