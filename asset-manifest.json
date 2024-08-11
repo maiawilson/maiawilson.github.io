@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.2892d95d.js",
+    "main.js": "/static/js/main.cb5ce61a.js",
     "static/media/007_Soothe_2024.jpeg": "/static/media/007_Soothe_2024.d04433ed82104a0e079d.jpeg",
     "static/media/003_I_Wonder_2024.jpg": "/static/media/003_I_Wonder_2024.ece32db622ef48022a88.jpg",
     "static/media/000_Girl_On_Swing_2024.jpg": "/static/media/000_Girl_On_Swing_2024.4a4ab1fd26cb5254045f.jpg",
     "static/media/010_Time_Machine_2022.jpg": "/static/media/010_Time_Machine_2022.647530471a7bc525ca96.jpg",
     "static/media/004_Intimate_2022.jpg": "/static/media/004_Intimate_2022.fedce73321673e777365.jpg",
-    "static/media/0055_Whirl_2024.jpg": "/static/media/0055_Whirl_2024.c1c1171be7da5156c984.jpg",
     "static/media/002_Where_the_Rock_Meets_the_Sea_in_Blue_2024.jpg": "/static/media/002_Where_the_Rock_Meets_the_Sea_in_Blue_2024.6bcf951369301e5a2c76.jpg",
     "static/media/001_Where_the_Rock_Meets_the_Sea_2024.jpg": "/static/media/001_Where_the_Rock_Meets_the_Sea_2024.55f232f651daccc8ecc6.jpg",
     "static/media/011_All-American_2022.jpeg": "/static/media/011_All-American_2022.0674c3fafb79442c6402.jpeg",
@@ -22,10 +21,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.2892d95d.js.map": "/static/js/main.2892d95d.js.map"
+    "main.cb5ce61a.js.map": "/static/js/main.cb5ce61a.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.2892d95d.js"
+    "static/js/main.cb5ce61a.js"
   ]
 }
