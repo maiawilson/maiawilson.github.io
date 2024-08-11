@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d58bd66.css",
-    "main.js": "/static/js/main.91c07419.js",
+    "main.js": "/static/js/main.0c0b117e.js",
     "static/media/008_Swing_2024.png": "/static/media/008_Swing_2024.981944d76073d45653d1.png",
     "static/media/007_Soothe_2024.jpeg": "/static/media/007_Soothe_2024.d04433ed82104a0e079d.jpeg",
     "static/media/003_I_Wonder_2024.jpg": "/static/media/003_I_Wonder_2024.ece32db622ef48022a88.jpg",
@@ -15,7 +15,7 @@
     "static/media/011_All-American_2022.jpeg": "/static/media/011_All-American_2022.0674c3fafb79442c6402.jpeg",
     "static/media/0045_Reconcilliation_2024.jpg": "/static/media/0045_Reconcilliation_2024.a0a33346ccbd6a279b2a.jpg",
     "static/media/0115_Angel_2023.jpg": "/static/media/0115_Angel_2023.b8016b38195e9661683a.jpg",
-    "static/media/0055_Tangerine_Dream_2023.jpg": "/static/media/0055_Tangerine_Dream_2023.a7621fea3d3073c9119b.jpg",
+    "static/media/013_Tangerine_Dream_2023.jpg": "/static/media/013_Tangerine_Dream_2023.a7621fea3d3073c9119b.jpg",
     "static/media/005_The_Sun_2022.jpg": "/static/media/005_The_Sun_2022.d5b66490d0cc97d7225b.jpg",
     "static/media/006_Unstable_2021.jpg": "/static/media/006_Unstable_2021.d3f5a88df3205c15b917.jpg",
     "static/media/010_Young_Woman_on_a_Staircase_2022.jpg": "/static/media/010_Young_Woman_on_a_Staircase_2022.6207af71cbcf79d4f3e1.jpg",
@@ -26,10 +26,10 @@
     "static/media/POKERFACE.ttf": "/static/media/POKERFACE.055e81d4241ab3527c9c.ttf",
     "index.html": "/index.html",
     "main.1d58bd66.css.map": "/static/css/main.1d58bd66.css.map",
-    "main.91c07419.js.map": "/static/js/main.91c07419.js.map"
+    "main.0c0b117e.js.map": "/static/js/main.0c0b117e.js.map"
   },
   "entrypoints": [
     "static/css/main.1d58bd66.css",
-    "static/js/main.91c07419.js"
+    "static/js/main.0c0b117e.js"
   ]
 }
