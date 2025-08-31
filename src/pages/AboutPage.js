@@ -12,30 +12,28 @@ export default function AboutPage() {
           <Grid item xs={12} md={6}>
             <Box px={6} py={4} display={"flex"} justifyContent={"center"}>
               <Typography align={"left"}>
-                Hi! I’m Maia Wilson and I’m an 11th grade student at Hunter
-                College High School in New York.
+                Hi! I’m Maia Wilson, I'm from New York City, and I’m currently a first-year at Yale University.
                 <br />
                 <br />
                 I’ve been creating drawings non-stop since I was a child,
-                scribbling characters on whatever surface I could find. As I’ve
-                gotten older I’ve experimented with more media, filling out
-                sketchbook after sketchbook, often with characters from my
-                imagination.
+                scribbling characters in crayon on whatever surface I could find. 
+                I filled out sketchbook after sketchbook with characters from my
+                imagination and attempts at capturing real life.
                 <br />
                 <br />
-                But it wasn’t until I attended the summer program at Cooper
-                Union that I finally had an opportunity to experiment with many
-                more non-traditional media including ink, charcoal, oil paints,
-                and pastels.
+                After attending a summer program at Cooper Union, a whole new set 
+                of media was opened up to me. I fell in love with inks, charocal, 
+                oil paints, and even pastels. At a RISD printmaking program two
+                summers later, I learned the art of screenprinting. Both programs
+                allowed me to exhibit my art in a formal setting. I won a 
+                Scholastic Art and Writers Awards gold key for one of these exhibition 
+                pieces <a href='/'>“Intimate”</a>.
                 <br />
                 <br />
-                I won a Scholastic Art and Writers Awards gold key for my
-                Exhibition Piece <a href='/'>“Intimate”</a>.
-                <br />
-                <br />
-                This year I’m taking Advanced Placement (AP) Drawing and
-                experimenting with printing and cut-paper techniques as well as
-                refining my digital style.
+                In my junior year, I took Advanced Placement (AP) Drawing and
+                experimented with cut-paper techniques and honed in on exploring
+                the beauty of my close bond with my sisters. In senior year, I took
+                AP Art History to have more references to draw on for my art. 
                 <br />
                 <br />
                 I’m planning on incorporating some of the engineering knowledge
