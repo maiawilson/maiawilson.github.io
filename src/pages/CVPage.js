@@ -10,8 +10,8 @@ export default function CVPage() {
       <Box m={5} px={10}>
         <iframe
           src="images/MaiaWilson_CV.png"
-          height="600em"
-          width="60%"
+          height="90vh"
+          width="100%"
           title="resume"
           loading="lazy"
         />
