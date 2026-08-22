@@ -9,7 +9,7 @@ export default function CVPage() {
       <NavBar darkText={true} />
       <Box m={5} px={10}>
         <iframe
-          src="images/MaiaWilson_CV.pdf"
+          src="images/MaiaWilsonShortCV.pdf"
           height="1200px"
           width="100%"
           title="resume"
