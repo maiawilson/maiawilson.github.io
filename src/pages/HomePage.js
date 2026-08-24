@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <Box
       sx={{
-        backgroundImage: "url('images/website.jpg')",
+        backgroundImage: "url('images/pelican.jpg')",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center, center",
         backgroundAttachment: "fixed",
