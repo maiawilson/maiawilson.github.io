@@ -18,6 +18,8 @@ const imageNames = imageList.map((name) => {
   return nameParts.join(" ") + ", " + year;
 });
 
+const isVideo = (file) => file.endsWith(".mp4") || file.endsWith(".webm");
+
 export default function RecentsPage() {
   const [open, setOpen] = useState(false);
   const [image, setImage] = useState("false");
@@ -48,16 +50,33 @@ export default function RecentsPage() {
                     objectFit: "cover",
                   }}
                 >
-                  <img
-                    src={tile}
-                    alt=""
-                    onClick={(e) => handleImage(tile, imageNames[i])}
-                    style={{
-                      width: "100%",
-                      height: "80%",
-                      objectFit: "cover",
-                    }}
-                  />
+                  {isVideo(tile) ? (
+                    <video
+                      src={tile}
+                      muted
+                      playsInline
+                      preload="metadata"
+                      onClick={() => handleImage(tile, imageNames[i])}
+                      style={{
+                        width: "100%",
+                        height: "80%",
+                        objectFit: "cover",
+                        cursor: "pointer",
+                      }}
+                    />
+                  ) : (
+                    <img
+                      src={tile}
+                      alt=""
+                      onClick={() => handleImage(tile, imageNames[i])}
+                      style={{
+                        width: "100%",
+                        height: "80%",
+                        objectFit: "cover",
+                        cursor: "pointer",
+                      }}
+                    />
+                  )}
                   <Typography
                     align="right"
                     style={{
@@ -88,12 +107,32 @@ export default function RecentsPage() {
               alignItems={"center"}
               sx={{ height: "80%", maxWidth: "80%", outline: "none" }}
             >
-              <img
-                src={image}
-                alt=""
-                style={{ outline: "none", maxHeight: "100%", maxWidth: "100%" }}
-              />
-              <Typography variant='h5' align="right" color="white">
+              {isVideo(image) ? (
+                <video
+                  src={image}
+                  autoPlay
+                  loop
+                  muted
+                  playsInline
+                  controls={false}
+                  style={{
+                    outline: "none",
+                    maxHeight: "100%",
+                    maxWidth: "100%",
+                  }}
+                />
+              ) : (
+                <img
+                  src={image}
+                  alt=""
+                  style={{
+                    outline: "none",
+                    maxHeight: "100%",
+                    maxWidth: "100%",
+                  }}
+                />
+              )}
+              <Typography variant="h5" align="right" color="white">
                 {caption}
               </Typography>
             </Box>
